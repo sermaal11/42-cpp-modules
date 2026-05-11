@@ -1,0 +1,5 @@
+.vscode
+btc
+btc_objects/
+*.csv
+!data.csv
